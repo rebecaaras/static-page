@@ -11,6 +11,4 @@ A few features are:
 
 ## Preview
 
-Insira um gif ou um link de alguma demonstração
-
 ![Webpage preview](preview.png)
